@@ -1,0 +1,36 @@
+/* #box {
+    padding: 40px;
+    text-align: center;
+    color: white;
+    background: lightskyblue;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    font-weight: bold;
+} */
+
+/* #box {
+    background: lightseagreen;
+    cursor: pointer;
+    padding: 40px;
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+    color:white;
+    font-weight: bold;
+} */
+
+body {text-align: center;}
+
+#container{
+    margin-top: 30px;
+}
+
+#container button {
+    background: lightcoral;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+}
